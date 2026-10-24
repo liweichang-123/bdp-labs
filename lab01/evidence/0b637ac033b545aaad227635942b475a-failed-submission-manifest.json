@@ -1,0 +1,18 @@
+{
+  "kind": "coursekit.run",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "01",
+    "run_id": "0b637ac033b545aaad227635942b475a",
+    "captured_at": "2026-10-24T11:18:47.132674+00:00",
+    "stage": "failed-submission-manifest"
+  },
+  "result": {
+    "passed": false,
+    "error": "ValueError: 缺少本实验/项目的真实运行JSON，单独身份输出不能代替结果。"
+  },
+  "artifacts": [],
+  "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\Administrator\\Desktop\\BDP-main\\BDP-main\\coursekit\\__main__.py\", line 84, in main\n    emit(args.lab, 'submission', build_submission(args.directory, args.lab, args.report))\n                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Administrator\\Desktop\\BDP-main\\BDP-main\\coursekit\\evidence.py\", line 175, in build_submission\n    runs, screenshots = _validate_content(root, files, report, student, lab)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Administrator\\Desktop\\BDP-main\\BDP-main\\coursekit\\evidence.py\", line 163, in _validate_content\n    raise ValueError('缺少本实验/项目的真实运行JSON，单独身份输出不能代替结果。')\nValueError: 缺少本实验/项目的真实运行JSON，单独身份输出不能代替结果。\n",
+  "exit_code": 1
+}

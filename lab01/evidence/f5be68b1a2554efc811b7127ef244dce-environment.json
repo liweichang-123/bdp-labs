@@ -1,0 +1,22 @@
+{
+  "kind": "coursekit.run",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "01",
+    "run_id": "f5be68b1a2554efc811b7127ef244dce",
+    "captured_at": "2026-10-24T08:21:02.537167+00:00",
+    "stage": "environment"
+  },
+  "result": null,
+  "artifacts": [],
+  "command": [
+    ".\\.venv\\Scripts\\python.exe",
+    "-m",
+    "pip",
+    "check"
+  ],
+  "exit_code": 0,
+  "stdout": "No broken requirements found.\n",
+  "stderr": ""
+}

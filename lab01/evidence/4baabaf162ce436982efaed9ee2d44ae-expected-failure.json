@@ -1,0 +1,24 @@
+{
+  "kind": "coursekit.run",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "01",
+    "run_id": "4baabaf162ce436982efaed9ee2d44ae",
+    "captured_at": "2026-10-24T09:25:43.333293+00:00",
+    "stage": "expected-failure"
+  },
+  "result": null,
+  "artifacts": [],
+  "command": [
+    ".\\.venv\\Scripts\\python.exe",
+    "-m",
+    "coursekit",
+    "lab01",
+    "--endpoint",
+    "http://127.0.0.1:1"
+  ],
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "{\n  \"passed\": false,\n  \"error\": \"EndpointConnectionError: Could not connect to the endpoint URL: \\\"http://127.0.0.1:1/\\\"\",\n  \"_evidence\": {\n    \"schema_version\": 1,\n    \"student_id\": \"2410311306\",\n    \"experiment_id\": \"01\",\n    \"run_id\": \"68a11ea3643747248b9afd41c4015f9c\",\n    \"captured_at\": \"2026-10-24T09:25:43.427742+00:00\",\n    \"stage\": \"failed-lab01\"\n  },\n  \"evidence_json\": \"C:\\\\Users\\\\Administrator\\\\Desktop\\\\BDP-main\\\\BDP-main\\\\outputs\\\\lab01\\\\evidence\\\\68a11ea3643747248b9afd41c4015f9c-failed-lab01.json\",\n  \"evidence_html\": \"C:\\\\Users\\\\Administrator\\\\Desktop\\\\BDP-main\\\\BDP-main\\\\outputs\\\\lab01\\\\evidence\\\\68a11ea3643747248b9afd41c4015f9c-failed-lab01.html\"\n}\n"
+}
