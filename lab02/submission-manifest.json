@@ -1,0 +1,203 @@
+{
+  "kind": "coursekit.submission",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "02",
+    "run_id": "3b37a41ff9884718b11ad6ecfffbbf94",
+    "captured_at": "2026-10-27T02:53:04.281834+00:00",
+    "stage": "submission"
+  },
+  "report": {
+    "file": "report.md",
+    "sha256": "afcce70cfc3bc76e34791066ba4ad3c303936e30fa93a71e1542fc5a30d23201"
+  },
+  "files": [
+    {
+      "file": "evidence/2410311306_lab02_基线结果.png",
+      "sha256": "fdb999b78b50a60e82508eb2c19bd718c887b011633c368dea2aabc79c14ae11"
+    },
+    {
+      "file": "evidence/2410311306_lab02_总量核对.png",
+      "sha256": "9f9774c87327e8a6d1f3782f77de27b6ae90a49ecba59d3e544ba586cd10fba5"
+    },
+    {
+      "file": "evidence/2410311306_lab02_拦截坏数据.png",
+      "sha256": "faf704d1d77ecbdab1ecdcc4690ddd53892ff69f9d7c2b21b6fba1aae9430c6a"
+    },
+    {
+      "file": "evidence/2410311306_lab02_阈值1200.png",
+      "sha256": "bd034a60195ddf12a458a684e734391491e2d0cbb43535c254687c1aafb671e7"
+    },
+    {
+      "file": "evidence/2410311306_lab02_阈值2000.png",
+      "sha256": "a5bfa36e75967b7bdcab99657451aef408e107482768f65d37f58404bec8bb5b"
+    },
+    {
+      "file": "evidence/3cee0d4c86324725b1e6b3224ea4f2c9-inspect-gold.html",
+      "sha256": "b8cdb0214eb04f048118a6324212b1f80ce1a245a6f22c888bce313ffa6a2f5a"
+    },
+    {
+      "file": "evidence/3cee0d4c86324725b1e6b3224ea4f2c9-inspect-gold.json",
+      "sha256": "cfb29791663f41e58d0e1b0594a02b75859fec00df5d6a4414f72fe5c8c0bbbc"
+    },
+    {
+      "file": "evidence/42b1f82ce66d470890fe401a84ebb113-student_quality_policy.html",
+      "sha256": "d7c567eb65ae2482ceea5b1c3b81b87e027f9dc88f8bf136851a22513ce863f6"
+    },
+    {
+      "file": "evidence/42b1f82ce66d470890fe401a84ebb113-student_quality_policy.json",
+      "sha256": "f038ea32912d5ec9e3db62901367178438202198db3ce3bcbd26239e787da56d"
+    },
+    {
+      "file": "evidence/4903ad8d586348a6acf364db7b802316-verify.html",
+      "sha256": "f71e1814d33d815989aa315f54f61a7bfea891220f5fd0fc809acc8de043dd64"
+    },
+    {
+      "file": "evidence/4903ad8d586348a6acf364db7b802316-verify.json",
+      "sha256": "d0821d3e286c53ebbd41289b23f32cab6f03bec6b976f531595971bc6abe380c"
+    },
+    {
+      "file": "evidence/7010539145464c8180bc28bf1614c7b0-student_quality_policy.html",
+      "sha256": "6fd359d119717167f37a0d2923cf74a38e17edcaec093a2283c4392a9783d941"
+    },
+    {
+      "file": "evidence/7010539145464c8180bc28bf1614c7b0-student_quality_policy.json",
+      "sha256": "859eb8c889b6cb2590e50dc9eb4507c468e7dd453e92828ddf7674583c54890d"
+    },
+    {
+      "file": "evidence/b09406e733e14e5db2d32af4a4b758d8-inspect_gold.html",
+      "sha256": "1222c7cdcc29e8d36dc6f4285787e4255623ab98c79ad6e24f1188449cec2e21"
+    },
+    {
+      "file": "evidence/b09406e733e14e5db2d32af4a4b758d8-inspect_gold.json",
+      "sha256": "e273f38ad7f16cefb6c97969d5435846d010f34eb450b6d93c271115e53cbae7"
+    },
+    {
+      "file": "evidence/cea408f1215c499f81d800fd3b0d0b52-quarantine.html",
+      "sha256": "46eee55608add23c5485f3d615dce89458a498173032d38636fb933b7d9830bc"
+    },
+    {
+      "file": "evidence/cea408f1215c499f81d800fd3b0d0b52-quarantine.json",
+      "sha256": "522390dfa4ca2b858e2259860171f54a9fbe2d3e3092556959b641fa48462c3e"
+    },
+    {
+      "file": "evidence/e493888ef3464c1e875df1b2a35a2fb9-start.html",
+      "sha256": "95d03c2f8f9976abbee1bf5e4d3efb2531e5220a3c6dfdd1581e31c1e5b577da"
+    },
+    {
+      "file": "evidence/e493888ef3464c1e875df1b2a35a2fb9-start.json",
+      "sha256": "748d959df18ddc670797c988a8ed4e1b9efc909928f04a84c31d32389be534fd"
+    },
+    {
+      "file": "report.md",
+      "sha256": "afcce70cfc3bc76e34791066ba4ad3c303936e30fa93a71e1542fc5a30d23201"
+    },
+    {
+      "file": "student_quality_policy.diff",
+      "sha256": "77ea1ca361f398282a9ee0029a2fc89a32d2ec1f51fd8ba7aa97dca9844a0461"
+    },
+    {
+      "file": "student_quality_policy.py",
+      "sha256": "f05afc89cf7f537344eaf7370ae2d46974af428dbab60d303b3fcf45e43720f6"
+    }
+  ],
+  "runs": [
+    {
+      "file": "evidence/3cee0d4c86324725b1e6b3224ea4f2c9-inspect-gold.json",
+      "sha256": "cfb29791663f41e58d0e1b0594a02b75859fec00df5d6a4414f72fe5c8c0bbbc",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "02",
+        "run_id": "3cee0d4c86324725b1e6b3224ea4f2c9",
+        "captured_at": "2026-10-27T02:42:45.681698+00:00",
+        "stage": "inspect-gold"
+      }
+    },
+    {
+      "file": "evidence/42b1f82ce66d470890fe401a84ebb113-student_quality_policy.json",
+      "sha256": "f038ea32912d5ec9e3db62901367178438202198db3ce3bcbd26239e787da56d",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "02",
+        "run_id": "42b1f82ce66d470890fe401a84ebb113",
+        "captured_at": "2026-10-27T02:46:36.972387+00:00",
+        "stage": "student_quality_policy"
+      }
+    },
+    {
+      "file": "evidence/4903ad8d586348a6acf364db7b802316-verify.json",
+      "sha256": "d0821d3e286c53ebbd41289b23f32cab6f03bec6b976f531595971bc6abe380c",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "02",
+        "run_id": "4903ad8d586348a6acf364db7b802316",
+        "captured_at": "2026-10-27T02:26:02.169963+00:00",
+        "stage": "verify"
+      }
+    },
+    {
+      "file": "evidence/7010539145464c8180bc28bf1614c7b0-student_quality_policy.json",
+      "sha256": "859eb8c889b6cb2590e50dc9eb4507c468e7dd453e92828ddf7674583c54890d",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "02",
+        "run_id": "7010539145464c8180bc28bf1614c7b0",
+        "captured_at": "2026-10-27T02:44:32.764197+00:00",
+        "stage": "student_quality_policy"
+      }
+    },
+    {
+      "file": "evidence/b09406e733e14e5db2d32af4a4b758d8-inspect_gold.json",
+      "sha256": "e273f38ad7f16cefb6c97969d5435846d010f34eb450b6d93c271115e53cbae7",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "02",
+        "run_id": "b09406e733e14e5db2d32af4a4b758d8",
+        "captured_at": "2026-10-27T02:42:45.760301+00:00",
+        "stage": "inspect_gold"
+      }
+    },
+    {
+      "file": "evidence/cea408f1215c499f81d800fd3b0d0b52-quarantine.json",
+      "sha256": "522390dfa4ca2b858e2259860171f54a9fbe2d3e3092556959b641fa48462c3e",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "02",
+        "run_id": "cea408f1215c499f81d800fd3b0d0b52",
+        "captured_at": "2026-10-27T02:39:21.586309+00:00",
+        "stage": "quarantine"
+      }
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "evidence/2410311306_lab02_基线结果.png",
+      "sha256": "fdb999b78b50a60e82508eb2c19bd718c887b011633c368dea2aabc79c14ae11"
+    },
+    {
+      "file": "evidence/2410311306_lab02_总量核对.png",
+      "sha256": "9f9774c87327e8a6d1f3782f77de27b6ae90a49ecba59d3e544ba586cd10fba5"
+    },
+    {
+      "file": "evidence/2410311306_lab02_拦截坏数据.png",
+      "sha256": "faf704d1d77ecbdab1ecdcc4690ddd53892ff69f9d7c2b21b6fba1aae9430c6a"
+    },
+    {
+      "file": "evidence/2410311306_lab02_阈值1200.png",
+      "sha256": "bd034a60195ddf12a458a684e734391491e2d0cbb43535c254687c1aafb671e7"
+    },
+    {
+      "file": "evidence/2410311306_lab02_阈值2000.png",
+      "sha256": "a5bfa36e75967b7bdcab99657451aef408e107482768f65d37f58404bec8bb5b"
+    }
+  ],
+  "status": "pending_teacher_screenshot_review",
+  "note": "学生生成清单不等于验收通过；教师须用包外复核记录逐张确认可见学号与运行标识。"
+}
