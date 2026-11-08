@@ -1,0 +1,21 @@
+{
+  "kind": "coursekit.run",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "02",
+    "run_id": "cea408f1215c499f81d800fd3b0d0b52",
+    "captured_at": "2026-10-27T02:39:21.586309+00:00",
+    "stage": "quarantine"
+  },
+  "result": null,
+  "artifacts": [],
+  "command": [
+    ".\\.venv\\Scripts\\python.exe",
+    "-c",
+    "print(open('outputs/lab02/quarantine.json',encoding='utf-8').read())"
+  ],
+  "exit_code": 0,
+  "stdout": "[\n  {\n    \"line\": 20101,\n    \"reason\": \"invalid_input_tokens\",\n    \"record\": {\n      \"event_id\": \"bad-negative\",\n      \"event_time\": \"2026-03-01T00:00:00+00:00\",\n      \"service\": \"assistant\",\n      \"model\": \"small\",\n      \"input_tokens\": -1,\n      \"output_tokens\": 291,\n      \"latency_ms\": 1083,\n      \"status\": \"error\"\n    }\n  },\n  {\n    \"line\": 20102,\n    \"reason\": \"invalid_event_time\",\n    \"record\": {\n      \"event_id\": \"bad-time\",\n      \"event_time\": \"not-a-time\",\n      \"service\": \"assistant\",\n      \"model\": \"small\",\n      \"input_tokens\": 1405,\n      \"output_tokens\": 568,\n      \"latency_ms\": 436,\n      \"status\": \"ok\"\n    }\n  }\n]\n",
+  "stderr": ""
+}

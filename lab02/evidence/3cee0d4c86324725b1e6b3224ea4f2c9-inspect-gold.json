@@ -1,0 +1,20 @@
+{
+  "kind": "coursekit.run",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "02",
+    "run_id": "3cee0d4c86324725b1e6b3224ea4f2c9",
+    "captured_at": "2026-10-27T02:42:45.681698+00:00",
+    "stage": "inspect-gold"
+  },
+  "result": null,
+  "artifacts": [],
+  "command": [
+    ".\\.venv\\Scripts\\python.exe",
+    ".\\02. 数据湖与质量契约\\附件\\inspect_gold.py"
+  ],
+  "exit_code": 0,
+  "stdout": "{\n  \"_evidence\": {\n    \"schema_version\": 1,\n    \"student_id\": \"2410311306\",\n    \"experiment_id\": \"02\",\n    \"run_id\": \"b09406e733e14e5db2d32af4a4b758d8\",\n    \"captured_at\": \"2026-10-27T02:42:45.760301+00:00\",\n    \"stage\": \"inspect_gold\"\n  },\n  \"exit_code\": 0,\n  \"stdout\": \"       day   service  requests  input_tokens  output_tokens\\n2026-03-01 assistant     12142      10943399        3743595\\n2026-03-01     batch      1722       1542888         526892\\n2026-03-01    search      3416       3066824        1043954\\n2026-03-02 assistant      1866       1688451         566434\\n2026-03-02     batch       301        273679          89623\\n2026-03-02    search       553        500399         175364\\n{'silver_totals': (20000, 18015640, 6145862), 'gold_totals': (20000, 18015640, 6145862), 'totals_match': True}\\n\",\n  \"stderr\": \"\",\n  \"evidence_json\": \"C:\\\\Users\\\\Administrator\\\\Desktop\\\\BDP-main\\\\BDP-main\\\\outputs\\\\lab02\\\\evidence\\\\b09406e733e14e5db2d32af4a4b758d8-inspect_gold.json\",\n  \"evidence_html\": \"C:\\\\Users\\\\Administrator\\\\Desktop\\\\BDP-main\\\\BDP-main\\\\outputs\\\\lab02\\\\evidence\\\\b09406e733e14e5db2d32af4a4b758d8-inspect_gold.html\"\n}\n",
+  "stderr": ""
+}
