@@ -1,0 +1,26 @@
+{
+  "kind": "coursekit.run",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "03",
+    "run_id": "793b91dccf194899951de20f02424a55",
+    "captured_at": "2026-11-10T03:02:16.121535+00:00",
+    "stage": "expected-failure"
+  },
+  "result": null,
+  "artifacts": [],
+  "command": [
+    ".\\.venv\\Scripts\\python.exe",
+    "-m",
+    "coursekit",
+    "lab03",
+    "--workers",
+    "0",
+    "--partitions",
+    "8"
+  ],
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "{\n  \"passed\": false,\n  \"error\": \"ValueError: Teaching limits: 1-4 workers, 1-64 partitions.\",\n  \"_evidence\": {\n    \"schema_version\": 1,\n    \"student_id\": \"2410311306\",\n    \"experiment_id\": \"03\",\n    \"run_id\": \"5a1a6d4b1b354f97957ede14970ca371\",\n    \"captured_at\": \"2026-11-10T03:02:16.225173+00:00\",\n    \"stage\": \"failed-lab03\"\n  },\n  \"evidence_json\": \"C:\\\\Users\\\\Administrator\\\\Desktop\\\\BDP-main\\\\BDP-main\\\\outputs\\\\lab03\\\\evidence\\\\5a1a6d4b1b354f97957ede14970ca371-failed-lab03.json\",\n  \"evidence_html\": \"C:\\\\Users\\\\Administrator\\\\Desktop\\\\BDP-main\\\\BDP-main\\\\outputs\\\\lab03\\\\evidence\\\\5a1a6d4b1b354f97957ede14970ca371-failed-lab03.html\"\n}\n"
+}

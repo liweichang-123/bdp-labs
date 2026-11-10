@@ -1,0 +1,18 @@
+{
+  "kind": "coursekit.run",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "03",
+    "run_id": "5a1a6d4b1b354f97957ede14970ca371",
+    "captured_at": "2026-11-10T03:02:16.225173+00:00",
+    "stage": "failed-lab03"
+  },
+  "result": {
+    "passed": false,
+    "error": "ValueError: Teaching limits: 1-4 workers, 1-64 partitions."
+  },
+  "artifacts": [],
+  "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\Administrator\\Desktop\\BDP-main\\BDP-main\\coursekit\\__main__.py\", line 64, in main\n    getattr(pipeline, name)(**kwargs)\n  File \"C:\\Users\\Administrator\\Desktop\\BDP-main\\BDP-main\\coursekit\\pipeline.py\", line 199, in lab03\n    raise ValueError('Teaching limits: 1-4 workers, 1-64 partitions.')\nValueError: Teaching limits: 1-4 workers, 1-64 partitions.\n",
+  "exit_code": 1
+}

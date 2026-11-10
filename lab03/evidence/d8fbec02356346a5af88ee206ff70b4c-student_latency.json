@@ -1,0 +1,29 @@
+{
+  "kind": "coursekit.run",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "03",
+    "run_id": "d8fbec02356346a5af88ee206ff70b4c",
+    "captured_at": "2026-11-10T02:54:19.162985+00:00",
+    "stage": "student_latency"
+  },
+  "result": null,
+  "artifacts": [
+    {
+      "file": "outputs/lab03/student-latency-1000.json",
+      "sha256": "f41400c393bb7d6c1fa402a62a749e81429dcc7fd864ee126c87ddcbfe7d75f2",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "d8fbec02356346a5af88ee206ff70b4c",
+        "captured_at": "2026-11-10T02:54:19.162985+00:00",
+        "stage": "student_latency"
+      }
+    }
+  ],
+  "exit_code": 0,
+  "stdout": "{\n  \"slow_ms\": 1000,\n  \"worker_pids\": {\n    \"tcp://127.0.0.1:52650\": 18412,\n    \"tcp://127.0.0.1:52653\": 17580\n  },\n  \"matches_sql\": true,\n  \"aggregate\": [\n    {\n      \"service\": \"assistant\",\n      \"requests\": 14008,\n      \"latency_ms_sum\": 28448309,\n      \"slow_requests\": 10589,\n      \"mean_latency_ms\": 2030.8615790976585,\n      \"slow_rate\": 0.7559251856082239\n    },\n    {\n      \"service\": \"batch\",\n      \"requests\": 2023,\n      \"latency_ms_sum\": 4079006,\n      \"slow_requests\": 1519,\n      \"mean_latency_ms\": 2016.3153732081068,\n      \"slow_rate\": 0.7508650519031141\n    },\n    {\n      \"service\": \"search\",\n      \"requests\": 3969,\n      \"latency_ms_sum\": 8137035,\n      \"slow_requests\": 3043,\n      \"mean_latency_ms\": 2050.1473922902496,\n      \"slow_rate\": 0.7666918619299572\n    }\n  ],\n  \"_evidence\": {\n    \"schema_version\": 1,\n    \"student_id\": \"2410311306\",\n    \"experiment_id\": \"03\",\n    \"run_id\": \"d8fbec02356346a5af88ee206ff70b4c\",\n    \"captured_at\": \"2026-11-10T02:54:19.162985+00:00\",\n    \"stage\": \"student-latency-1000\"\n  }\n}\n",
+  "stderr": ""
+}

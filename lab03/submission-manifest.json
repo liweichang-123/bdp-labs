@@ -1,0 +1,303 @@
+{
+  "kind": "coursekit.submission",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "03",
+    "run_id": "0fe57ac546fc4f1fbccc085c24ab9b27",
+    "captured_at": "2026-11-10T03:09:50.235528+00:00",
+    "stage": "submission"
+  },
+  "report": {
+    "file": "report.md",
+    "sha256": "d95751f07bb1f03579a2e2116b806926fd52e6f70384b34cb1fd00fe7c294e81"
+  },
+  "files": [
+    {
+      "file": "evidence/01ba6946e46546faba294879db262648-probe-01.html",
+      "sha256": "46b05e6e30c61268ec7dd1ba4759d9d6b2f8060a0203729a11451cd37254e2e4"
+    },
+    {
+      "file": "evidence/01ba6946e46546faba294879db262648-probe-01.json",
+      "sha256": "e373ec24debe99e3903077fb239cfd1e13341b608028ac44e70354ff0dbf9f8c"
+    },
+    {
+      "file": "evidence/18f4b5e1fedd40efa6aa576b0cfe99a2-verify.html",
+      "sha256": "ef3e3a503fc35bbf21210f85d510a06530f51f927ff93c6195840a3553ea8bba"
+    },
+    {
+      "file": "evidence/18f4b5e1fedd40efa6aa576b0cfe99a2-verify.json",
+      "sha256": "6f92a56de440c8e5b8ba81176f6a137768368f0a7bcbb4d6c9b83e67b81e3f87"
+    },
+    {
+      "file": "evidence/224f86ea481a40979e07a83d2f35b40d-student_latency.html",
+      "sha256": "31cda09257883121da6640d61cff00d0f31a9ad551ddb27c9a49c2dc790c76ba"
+    },
+    {
+      "file": "evidence/224f86ea481a40979e07a83d2f35b40d-student_latency.json",
+      "sha256": "b5ba22173f6f76f0c3edc78ed82bb76c889aadffa2e3ce67c2354960cb31bda3"
+    },
+    {
+      "file": "evidence/2410311306_lab03_w1p8.png",
+      "sha256": "5c1dcb9d100269d7cc680e8df635e249b61f740575e5fe328ed288befa871d3e"
+    },
+    {
+      "file": "evidence/2410311306_lab03_w2p4.png",
+      "sha256": "fd14ec55d9d92743ecfe1ae8709bf5e0d2e22685f03293b4514ee2df610dbe5d"
+    },
+    {
+      "file": "evidence/2410311306_lab03_w2p8.png",
+      "sha256": "7b25b76224af11512a17c6c4d4814d95f7ee782b81dec4e5eea2a7aae92e3c4b"
+    },
+    {
+      "file": "evidence/2410311306_lab03_慢请求1000.png",
+      "sha256": "4089db28d376787adbbbb45348a001afef326b8a0e93643909910892011ff840"
+    },
+    {
+      "file": "evidence/2410311306_lab03_慢请求2000.png",
+      "sha256": "045839e6d23f9b951fa95443b4bad2b97ff7da17cb9953c96e4d17f61501b1ff"
+    },
+    {
+      "file": "evidence/50c2ccb9f692472f803bf9fcaa4ac6aa-student_latency.html",
+      "sha256": "63f8c278ea950359985be681af5b9393731036a4e9c8a614394599d175dc3860"
+    },
+    {
+      "file": "evidence/50c2ccb9f692472f803bf9fcaa4ac6aa-student_latency.json",
+      "sha256": "13a954aa01994b8afa880dc903876b9e3ef2a5c32c4e55cd66b25101f155794b"
+    },
+    {
+      "file": "evidence/5a1a6d4b1b354f97957ede14970ca371-failed-lab03.html",
+      "sha256": "f46644fffe5d736201f0592c88b2c0f076a3a2171b627054db04806dd8adade0"
+    },
+    {
+      "file": "evidence/5a1a6d4b1b354f97957ede14970ca371-failed-lab03.json",
+      "sha256": "262047790326cbebba9519edfd1ef55fb2a1e94ff722b857f0e2045a38300d8a"
+    },
+    {
+      "file": "evidence/793b91dccf194899951de20f02424a55-expected-failure.html",
+      "sha256": "647ccf77c37201a16042f766aa4f9c787bfbb200aded0258b34b6e882f87d666"
+    },
+    {
+      "file": "evidence/793b91dccf194899951de20f02424a55-expected-failure.json",
+      "sha256": "c0c5b53dfa4b38ea313126862117576612f2f2a19e7a41412ce613ee98ff54ff"
+    },
+    {
+      "file": "evidence/a7e7b64c98674ab4b11671776121ba66-verify.html",
+      "sha256": "e9014014dcbfe91f7b9f619d1ceaf87d61775c79f12e8bfd5bba9e87deb4caa3"
+    },
+    {
+      "file": "evidence/a7e7b64c98674ab4b11671776121ba66-verify.json",
+      "sha256": "3d5b9bd63846eb6ef3cbd7b94a47f1d596cf5aabcebd46fc05816fc004cab83f"
+    },
+    {
+      "file": "evidence/cf33d53a74b44e13812adfdfea7b022d-verify.html",
+      "sha256": "af2d00c517c775f9ba34b68adc89edf6a36ee5c8d28bc9a0eece7822edc21b0b"
+    },
+    {
+      "file": "evidence/cf33d53a74b44e13812adfdfea7b022d-verify.json",
+      "sha256": "b448d36f2cdc5faca94723f3d8a7ff6c7747bb7eb6d969a8f29dc19a08069c0d"
+    },
+    {
+      "file": "evidence/d6b67414e0e54a64bb17302f62367795-check_error_extension.html",
+      "sha256": "09670470aac33cf07e453bdc61b5ae90585fad70d6a730accc8b91a391dd74e2"
+    },
+    {
+      "file": "evidence/d6b67414e0e54a64bb17302f62367795-check_error_extension.json",
+      "sha256": "657ee18d21a62cc3b5a8375e4e6b35ebbe881daab67f6493a76a4ca7b768bbb2"
+    },
+    {
+      "file": "evidence/d8fbec02356346a5af88ee206ff70b4c-student_latency.html",
+      "sha256": "b23c1a1ee22465d4dd519c68b0b658c9b334f09b2a65b161698afa3086255ed5"
+    },
+    {
+      "file": "evidence/d8fbec02356346a5af88ee206ff70b4c-student_latency.json",
+      "sha256": "3e155131921144efb3baba6023b25d445c8f89cafb8546e1522c6df66e489c2b"
+    },
+    {
+      "file": "evidence/f11a367542de448383ee1a8e9117e66b-start.html",
+      "sha256": "c8d757a04fb917a5a05990da8165736ff91116f4292f139d7d9d4497490d7a6a"
+    },
+    {
+      "file": "evidence/f11a367542de448383ee1a8e9117e66b-start.json",
+      "sha256": "67ff96958924a7e81e5592df352e37f315b24c1caf1dfacb3e551f584c061bb7"
+    },
+    {
+      "file": "evidence/faa296980d2e432eae47671eb1569f83-verify.html",
+      "sha256": "88b23100f81310d18abb99b3699dcf9dc40bdccc8921e37e49d0dda48d639dd2"
+    },
+    {
+      "file": "evidence/faa296980d2e432eae47671eb1569f83-verify.json",
+      "sha256": "04a45e8be209eaf02b34f4d13e0f2c19996866a1acd94d2b503975056ec64ed5"
+    },
+    {
+      "file": "report.md",
+      "sha256": "d95751f07bb1f03579a2e2116b806926fd52e6f70384b34cb1fd00fe7c294e81"
+    },
+    {
+      "file": "student_latency_aggregate.diff",
+      "sha256": "1809a307824372c0a8b66ff40539a6aaf9184d1d95b8c28ad225a2e697ee6849"
+    },
+    {
+      "file": "student_latency_aggregate.py",
+      "sha256": "45d1a9862fb6ccbdcd3821b2797ea7681e3d3c0b53091699ea9dbfc48dc9a1f5"
+    }
+  ],
+  "runs": [
+    {
+      "file": "evidence/01ba6946e46546faba294879db262648-probe-01.json",
+      "sha256": "e373ec24debe99e3903077fb239cfd1e13341b608028ac44e70354ff0dbf9f8c",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "01ba6946e46546faba294879db262648",
+        "captured_at": "2026-11-10T02:38:05.356347+00:00",
+        "stage": "probe-01"
+      }
+    },
+    {
+      "file": "evidence/18f4b5e1fedd40efa6aa576b0cfe99a2-verify.json",
+      "sha256": "6f92a56de440c8e5b8ba81176f6a137768368f0a7bcbb4d6c9b83e67b81e3f87",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "18f4b5e1fedd40efa6aa576b0cfe99a2",
+        "captured_at": "2026-11-10T03:02:24.926675+00:00",
+        "stage": "verify"
+      }
+    },
+    {
+      "file": "evidence/224f86ea481a40979e07a83d2f35b40d-student_latency.json",
+      "sha256": "b5ba22173f6f76f0c3edc78ed82bb76c889aadffa2e3ce67c2354960cb31bda3",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "224f86ea481a40979e07a83d2f35b40d",
+        "captured_at": "2026-11-10T02:55:40.230559+00:00",
+        "stage": "student_latency"
+      }
+    },
+    {
+      "file": "evidence/50c2ccb9f692472f803bf9fcaa4ac6aa-student_latency.json",
+      "sha256": "13a954aa01994b8afa880dc903876b9e3ef2a5c32c4e55cd66b25101f155794b",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "50c2ccb9f692472f803bf9fcaa4ac6aa",
+        "captured_at": "2026-11-10T03:00:06.371394+00:00",
+        "stage": "student_latency"
+      }
+    },
+    {
+      "file": "evidence/5a1a6d4b1b354f97957ede14970ca371-failed-lab03.json",
+      "sha256": "262047790326cbebba9519edfd1ef55fb2a1e94ff722b857f0e2045a38300d8a",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "5a1a6d4b1b354f97957ede14970ca371",
+        "captured_at": "2026-11-10T03:02:16.225173+00:00",
+        "stage": "failed-lab03"
+      }
+    },
+    {
+      "file": "evidence/793b91dccf194899951de20f02424a55-expected-failure.json",
+      "sha256": "c0c5b53dfa4b38ea313126862117576612f2f2a19e7a41412ce613ee98ff54ff",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "793b91dccf194899951de20f02424a55",
+        "captured_at": "2026-11-10T03:02:16.121535+00:00",
+        "stage": "expected-failure"
+      }
+    },
+    {
+      "file": "evidence/a7e7b64c98674ab4b11671776121ba66-verify.json",
+      "sha256": "3d5b9bd63846eb6ef3cbd7b94a47f1d596cf5aabcebd46fc05816fc004cab83f",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "a7e7b64c98674ab4b11671776121ba66",
+        "captured_at": "2026-11-10T02:39:02.651934+00:00",
+        "stage": "verify"
+      }
+    },
+    {
+      "file": "evidence/cf33d53a74b44e13812adfdfea7b022d-verify.json",
+      "sha256": "b448d36f2cdc5faca94723f3d8a7ff6c7747bb7eb6d969a8f29dc19a08069c0d",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "cf33d53a74b44e13812adfdfea7b022d",
+        "captured_at": "2026-11-10T02:38:52.339779+00:00",
+        "stage": "verify"
+      }
+    },
+    {
+      "file": "evidence/d6b67414e0e54a64bb17302f62367795-check_error_extension.json",
+      "sha256": "657ee18d21a62cc3b5a8375e4e6b35ebbe881daab67f6493a76a4ca7b768bbb2",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "d6b67414e0e54a64bb17302f62367795",
+        "captured_at": "2026-11-10T03:00:19.855045+00:00",
+        "stage": "check_error_extension"
+      }
+    },
+    {
+      "file": "evidence/d8fbec02356346a5af88ee206ff70b4c-student_latency.json",
+      "sha256": "3e155131921144efb3baba6023b25d445c8f89cafb8546e1522c6df66e489c2b",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "d8fbec02356346a5af88ee206ff70b4c",
+        "captured_at": "2026-11-10T02:54:19.162985+00:00",
+        "stage": "student_latency"
+      }
+    },
+    {
+      "file": "evidence/faa296980d2e432eae47671eb1569f83-verify.json",
+      "sha256": "04a45e8be209eaf02b34f4d13e0f2c19996866a1acd94d2b503975056ec64ed5",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "03",
+        "run_id": "faa296980d2e432eae47671eb1569f83",
+        "captured_at": "2026-11-10T02:39:10.608062+00:00",
+        "stage": "verify"
+      }
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "evidence/2410311306_lab03_w1p8.png",
+      "sha256": "5c1dcb9d100269d7cc680e8df635e249b61f740575e5fe328ed288befa871d3e"
+    },
+    {
+      "file": "evidence/2410311306_lab03_w2p4.png",
+      "sha256": "fd14ec55d9d92743ecfe1ae8709bf5e0d2e22685f03293b4514ee2df610dbe5d"
+    },
+    {
+      "file": "evidence/2410311306_lab03_w2p8.png",
+      "sha256": "7b25b76224af11512a17c6c4d4814d95f7ee782b81dec4e5eea2a7aae92e3c4b"
+    },
+    {
+      "file": "evidence/2410311306_lab03_慢请求1000.png",
+      "sha256": "4089db28d376787adbbbb45348a001afef326b8a0e93643909910892011ff840"
+    },
+    {
+      "file": "evidence/2410311306_lab03_慢请求2000.png",
+      "sha256": "045839e6d23f9b951fa95443b4bad2b97ff7da17cb9953c96e4d17f61501b1ff"
+    }
+  ],
+  "status": "pending_teacher_screenshot_review",
+  "note": "学生生成清单不等于验收通过；教师须用包外复核记录逐张确认可见学号与运行标识。"
+}
