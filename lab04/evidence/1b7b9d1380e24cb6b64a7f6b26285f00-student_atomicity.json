@@ -1,0 +1,29 @@
+{
+  "kind": "coursekit.run",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "04",
+    "run_id": "1b7b9d1380e24cb6b64a7f6b26285f00",
+    "captured_at": "2026-11-22T04:29:15.886789+00:00",
+    "stage": "student_atomicity"
+  },
+  "result": null,
+  "artifacts": [
+    {
+      "file": "outputs/lab04/student-atomicity-atomic.json",
+      "sha256": "a756bdcf5b6f7c645e4bfef3515f0eede5c1e94dca0c857e0b735808ada83d14",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "1b7b9d1380e24cb6b64a7f6b26285f00",
+        "captured_at": "2026-11-22T04:29:15.886789+00:00",
+        "stage": "student_atomicity"
+      }
+    }
+  ],
+  "exit_code": 0,
+  "stdout": "{\n  \"commit_early\": false,\n  \"rows_after_failure\": 0,\n  \"offset_after_failure\": 0,\n  \"atomic_contract_passed\": true,\n  \"final_rows\": 1,\n  \"final_offset\": 1,\n  \"_evidence\": {\n    \"schema_version\": 1,\n    \"student_id\": \"2410311306\",\n    \"experiment_id\": \"04\",\n    \"run_id\": \"1b7b9d1380e24cb6b64a7f6b26285f00\",\n    \"captured_at\": \"2026-11-22T04:29:15.886789+00:00\",\n    \"stage\": \"student-atomicity-atomic\"\n  }\n}\n",
+  "stderr": ""
+}

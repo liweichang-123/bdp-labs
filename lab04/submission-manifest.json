@@ -1,0 +1,303 @@
+{
+  "kind": "coursekit.submission",
+  "_evidence": {
+    "schema_version": 1,
+    "student_id": "2410311306",
+    "experiment_id": "04",
+    "run_id": "8dd8fefee73444b0aa612cd8e4f4b2d5",
+    "captured_at": "2026-11-22T04:45:40.001388+00:00",
+    "stage": "submission"
+  },
+  "report": {
+    "file": "report.md",
+    "sha256": "20505d57f73307389e5ba3d2189b480efc3e34e5e2363a6cfb7aae006589b622"
+  },
+  "files": [
+    {
+      "file": "evidence/1b7b9d1380e24cb6b64a7f6b26285f00-student_atomicity.html",
+      "sha256": "22214214e89dc8cc0bde32055445b8a0a00c841783ca525e42bb85de03292196"
+    },
+    {
+      "file": "evidence/1b7b9d1380e24cb6b64a7f6b26285f00-student_atomicity.json",
+      "sha256": "77bbc9865d0f1203f3a24c6af55ce627cd43881fe6c45560ffa8fefb46224130"
+    },
+    {
+      "file": "evidence/23034077cc176a1c12ad7321003fbfbf.png",
+      "sha256": "7df94e68b21bed574492c0db46a8ada4ca2ca05821b16ec4dd1a8578ee2c28b6"
+    },
+    {
+      "file": "evidence/266cff1571c84e529fe34e1589aea6d1-student_atomicity.html",
+      "sha256": "b029de4501b41706350cf8c7cb35faf6b2d65d164e8b4902f15e1c6dfd179c13"
+    },
+    {
+      "file": "evidence/266cff1571c84e529fe34e1589aea6d1-student_atomicity.json",
+      "sha256": "c05fb87c142078174dc59503bd33d03228eb8d295e733075916e23bef9a9811d"
+    },
+    {
+      "file": "evidence/42eca69b2bd14286b169a55b8b0ef01b-failed-submission-manifest.html",
+      "sha256": "1f352022e915629317b08af255b6cb45a17632ab9b3eee7aa933b3df1ad6ec7d"
+    },
+    {
+      "file": "evidence/42eca69b2bd14286b169a55b8b0ef01b-failed-submission-manifest.json",
+      "sha256": "43b531d34be6ae91d3cff202edd21e2da67ec589da8cfdc54785fec500922f95"
+    },
+    {
+      "file": "evidence/432e21e2d48f4b2095d30351a4beea21-failed-submission-manifest.html",
+      "sha256": "daa5983d23fd1fd18d452aadfd155c24b3d94752bcbff37da10a20013488bd29"
+    },
+    {
+      "file": "evidence/432e21e2d48f4b2095d30351a4beea21-failed-submission-manifest.json",
+      "sha256": "66028925cd57db8e1525ed0683155f8bfe157252bcf2057b803f8161012cd877"
+    },
+    {
+      "file": "evidence/573a83218c3a420c8229e3903106fd09-verify.html",
+      "sha256": "e7dd19ef3d5e217b5826a302c7a77a826fdf639593c9366946748f255810bdac"
+    },
+    {
+      "file": "evidence/573a83218c3a420c8229e3903106fd09-verify.json",
+      "sha256": "b5d303314ed8d216df9b184f9251354ea1eb98dc337f403d97304e50371c1000"
+    },
+    {
+      "file": "evidence/6dbc3c6f2ad741c8a7d0abe5becb0238-student_atomicity.html",
+      "sha256": "32aee13fb28af8bacb73992fe0735fd8df1717d1536812822f8da70b7331d82d"
+    },
+    {
+      "file": "evidence/6dbc3c6f2ad741c8a7d0abe5becb0238-student_atomicity.json",
+      "sha256": "a88888f6df011bd956a434d79ae0f6a53844a118d214a2afd17e364de4fa1e02"
+    },
+    {
+      "file": "evidence/8d0229a98a2af6556fc5c8a9938a85bc.png",
+      "sha256": "f94f4cb55748af1e3c05618cc40ab2ff162405d42580a8ef90955c5d8c84d672"
+    },
+    {
+      "file": "evidence/a74a980f8f8746c7a4f9e5a4b09fec90-failed-submission-manifest.html",
+      "sha256": "d2e06f8d9f0d6486262d8745e89168941fcf2e0837845ee0cf1f5b36259fd65c"
+    },
+    {
+      "file": "evidence/a74a980f8f8746c7a4f9e5a4b09fec90-failed-submission-manifest.json",
+      "sha256": "bd94b91b08e2196b59a2d80fbe376346e90bce5dd34597311b558c9f281d4f82"
+    },
+    {
+      "file": "evidence/c5a5cfb088be484f99d25902f357681d-start.html",
+      "sha256": "35c0e8a9e941adc1b96562e1054c73756482f26a3b91f2f12fd56200a42ec06a"
+    },
+    {
+      "file": "evidence/c5a5cfb088be484f99d25902f357681d-start.json",
+      "sha256": "c86da2fe125a65f4db5a9cb0ed3233b3fd8f1ad06f793c60bbd498de11e1d33e"
+    },
+    {
+      "file": "evidence/c69723c67a4f41cea5daf2445c58a00f-verify.html",
+      "sha256": "aadc44f6dd389c3cf1386e0f45a8099572d1612558d39a43732e2782dd1404e0"
+    },
+    {
+      "file": "evidence/c69723c67a4f41cea5daf2445c58a00f-verify.json",
+      "sha256": "d50db57bad42d0ab65efaea55de90f945f16b02e600907f3a4ec346c75352f2b"
+    },
+    {
+      "file": "evidence/d9bb355e6db24a8498cd47cb68703be5-student_atomicity.html",
+      "sha256": "769337a75d56e12a8eb1edd29843a37c4e8d0f72f9e08fe56429514db9043269"
+    },
+    {
+      "file": "evidence/d9bb355e6db24a8498cd47cb68703be5-student_atomicity.json",
+      "sha256": "fb8543e815030d4d8ed62fc519a6cfe5628754b67e12406f35070d33dd344d0b"
+    },
+    {
+      "file": "evidence/ded99efdde109a418ee38987af4c6d82.png",
+      "sha256": "82960cd12acc71ddec12c50a6ed3cadc3fdad52b90a56ce7186b9cbe128a4f97"
+    },
+    {
+      "file": "evidence/e09a00268e0648649c06ad2d8aa6b9a0-inspect_state.html",
+      "sha256": "2a59983f9ef084e66b16ba0b06bb8352edb41baf321835068067f322bcf49486"
+    },
+    {
+      "file": "evidence/e09a00268e0648649c06ad2d8aa6b9a0-inspect_state.json",
+      "sha256": "7527b624a968a65910721549da5b92990c1e105910d307fbd0d8536079ff02fa"
+    },
+    {
+      "file": "evidence/e2d232e316e64836b84d32c49d1e2cca-failed-submission-manifest.html",
+      "sha256": "af2e25a5e61f1242d5a1aaa6d98117d95a4afe02d0073ae779951d53c87959e8"
+    },
+    {
+      "file": "evidence/e2d232e316e64836b84d32c49d1e2cca-failed-submission-manifest.json",
+      "sha256": "e38ab7d0e465cdd65e530d26755b9e08369b626e5e5d4f2d5f711b8897c29c0e"
+    },
+    {
+      "file": "evidence/fe71f8589d3f5faa3a91230f79d15415.png",
+      "sha256": "3236b184862204d9fde022fa9e2eadd7d3dfbf6d6c4105e1e74c130febcd04e1"
+    },
+    {
+      "file": "replay.json",
+      "sha256": "6bd454db200120cf7f3087aec113d9c17be65e08579e5a890bb47749cf25d201"
+    },
+    {
+      "file": "report.md",
+      "sha256": "20505d57f73307389e5ba3d2189b480efc3e34e5e2363a6cfb7aae006589b622"
+    },
+    {
+      "file": "student-atomicity-atomic.json",
+      "sha256": "1de91403daaa8d4a084a68f55024d6b05acb467df541b69aceac65f02628c54f"
+    },
+    {
+      "file": "student-atomicity-early.json",
+      "sha256": "e42073b6bcc4d3cfac5f6ad315a463b12f6a81b7fac60bc6a09a978c0be3b455"
+    },
+    {
+      "file": "student_atomicity.py",
+      "sha256": "48a788303e54d67267c4d068c3838f0b09c01691be6c0132d4c116112c2b9903"
+    }
+  ],
+  "runs": [
+    {
+      "file": "evidence/1b7b9d1380e24cb6b64a7f6b26285f00-student_atomicity.json",
+      "sha256": "77bbc9865d0f1203f3a24c6af55ce627cd43881fe6c45560ffa8fefb46224130",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "1b7b9d1380e24cb6b64a7f6b26285f00",
+        "captured_at": "2026-11-22T04:29:15.886789+00:00",
+        "stage": "student_atomicity"
+      }
+    },
+    {
+      "file": "evidence/266cff1571c84e529fe34e1589aea6d1-student_atomicity.json",
+      "sha256": "c05fb87c142078174dc59503bd33d03228eb8d295e733075916e23bef9a9811d",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "266cff1571c84e529fe34e1589aea6d1",
+        "captured_at": "2026-11-22T04:10:55.323821+00:00",
+        "stage": "student_atomicity"
+      }
+    },
+    {
+      "file": "evidence/42eca69b2bd14286b169a55b8b0ef01b-failed-submission-manifest.json",
+      "sha256": "43b531d34be6ae91d3cff202edd21e2da67ec589da8cfdc54785fec500922f95",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "42eca69b2bd14286b169a55b8b0ef01b",
+        "captured_at": "2026-11-22T04:38:07.244103+00:00",
+        "stage": "failed-submission-manifest"
+      }
+    },
+    {
+      "file": "evidence/432e21e2d48f4b2095d30351a4beea21-failed-submission-manifest.json",
+      "sha256": "66028925cd57db8e1525ed0683155f8bfe157252bcf2057b803f8161012cd877",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "432e21e2d48f4b2095d30351a4beea21",
+        "captured_at": "2026-11-22T04:40:10.358248+00:00",
+        "stage": "failed-submission-manifest"
+      }
+    },
+    {
+      "file": "evidence/573a83218c3a420c8229e3903106fd09-verify.json",
+      "sha256": "b5d303314ed8d216df9b184f9251354ea1eb98dc337f403d97304e50371c1000",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "573a83218c3a420c8229e3903106fd09",
+        "captured_at": "2026-11-22T04:07:37.355650+00:00",
+        "stage": "verify"
+      }
+    },
+    {
+      "file": "evidence/6dbc3c6f2ad741c8a7d0abe5becb0238-student_atomicity.json",
+      "sha256": "a88888f6df011bd956a434d79ae0f6a53844a118d214a2afd17e364de4fa1e02",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "6dbc3c6f2ad741c8a7d0abe5becb0238",
+        "captured_at": "2026-11-22T04:28:24.752784+00:00",
+        "stage": "student_atomicity"
+      }
+    },
+    {
+      "file": "evidence/a74a980f8f8746c7a4f9e5a4b09fec90-failed-submission-manifest.json",
+      "sha256": "bd94b91b08e2196b59a2d80fbe376346e90bce5dd34597311b558c9f281d4f82",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "a74a980f8f8746c7a4f9e5a4b09fec90",
+        "captured_at": "2026-11-22T04:39:33.845998+00:00",
+        "stage": "failed-submission-manifest"
+      }
+    },
+    {
+      "file": "evidence/c69723c67a4f41cea5daf2445c58a00f-verify.json",
+      "sha256": "d50db57bad42d0ab65efaea55de90f945f16b02e600907f3a4ec346c75352f2b",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "c69723c67a4f41cea5daf2445c58a00f",
+        "captured_at": "2026-11-22T04:39:28.011213+00:00",
+        "stage": "verify"
+      }
+    },
+    {
+      "file": "evidence/d9bb355e6db24a8498cd47cb68703be5-student_atomicity.json",
+      "sha256": "fb8543e815030d4d8ed62fc519a6cfe5628754b67e12406f35070d33dd344d0b",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "d9bb355e6db24a8498cd47cb68703be5",
+        "captured_at": "2026-11-22T04:10:49.462494+00:00",
+        "stage": "student_atomicity"
+      }
+    },
+    {
+      "file": "evidence/e09a00268e0648649c06ad2d8aa6b9a0-inspect_state.json",
+      "sha256": "7527b624a968a65910721549da5b92990c1e105910d307fbd0d8536079ff02fa",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "e09a00268e0648649c06ad2d8aa6b9a0",
+        "captured_at": "2026-11-22T04:09:51.211509+00:00",
+        "stage": "inspect_state"
+      }
+    },
+    {
+      "file": "evidence/e2d232e316e64836b84d32c49d1e2cca-failed-submission-manifest.json",
+      "sha256": "e38ab7d0e465cdd65e530d26755b9e08369b626e5e5d4f2d5f711b8897c29c0e",
+      "_evidence": {
+        "schema_version": 1,
+        "student_id": "2410311306",
+        "experiment_id": "04",
+        "run_id": "e2d232e316e64836b84d32c49d1e2cca",
+        "captured_at": "2026-11-22T04:38:44.033961+00:00",
+        "stage": "failed-submission-manifest"
+      }
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "evidence/23034077cc176a1c12ad7321003fbfbf.png",
+      "sha256": "7df94e68b21bed574492c0db46a8ada4ca2ca05821b16ec4dd1a8578ee2c28b6"
+    },
+    {
+      "file": "evidence/8d0229a98a2af6556fc5c8a9938a85bc.png",
+      "sha256": "f94f4cb55748af1e3c05618cc40ab2ff162405d42580a8ef90955c5d8c84d672"
+    },
+    {
+      "file": "evidence/ded99efdde109a418ee38987af4c6d82.png",
+      "sha256": "82960cd12acc71ddec12c50a6ed3cadc3fdad52b90a56ce7186b9cbe128a4f97"
+    },
+    {
+      "file": "evidence/fe71f8589d3f5faa3a91230f79d15415.png",
+      "sha256": "3236b184862204d9fde022fa9e2eadd7d3dfbf6d6c4105e1e74c130febcd04e1"
+    }
+  ],
+  "status": "pending_teacher_screenshot_review",
+  "note": "学生生成清单不等于验收通过；教师须用包外复核记录逐张确认可见学号与运行标识。"
+}
